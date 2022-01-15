@@ -1,5 +1,5 @@
 
-[./images/logo_JrCanDev.png]
+![./images/logo_JrCanDev.png]
 # JrCanDev
 
 JrCanDev est une association loi 1901 qui réunit des étudiants et des enseignants de l'IUT du Littoral. 
