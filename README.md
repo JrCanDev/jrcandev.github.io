@@ -4,10 +4,10 @@
 
 JrCanDev est une association loi 1901 qui réunit des étudiants et des enseignants de l'IUT du Littoral. 
 
-Ses objectifs est de permet permettre à ses membres d’apprendre et de développer des compétences en mettant en place, utilisant et/ou administrant :
+Ses objectifs sont de permettre à ses membres d’apprendre et de développer des compétences en mettant en place, utilisant et/ou administrant :
 
 - des hébergements Internet de contenus statiques et/ou dynamiques ;
-- des plateformes de test ;
+- des plate-formes de test ;
 - des outils d'assistance à l’utilisateur ;
 - des architectures, des systèmes et/ou des logiciels ;
 - des outils pédagogiques numériques et/ou ludiques ;
