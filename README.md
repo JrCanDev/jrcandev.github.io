@@ -14,3 +14,7 @@ Ses objectifs sont de permettre à ses membres d’apprendre et de développer d
 - des outils de production et de diffusion de contenus audio-visuels ;
 - des services liés à l’acquisition ou la production d’objets 3D ;
 - des services de réalité virtuelle ou augmentée.
+
+# Nous contacter 
+
+Par mail : jrcandev at free point fr 
