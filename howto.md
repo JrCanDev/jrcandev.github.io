@@ -19,11 +19,11 @@ Le compte sera créé et le mot de passe vous sera envoyé.
 
 2 - Entrer les login et mot de passe
 
-  2a - Si première connexion, changer son mot de passe en cliquant sur la nom du projet en haut à droite de la fenêtre.
+&nbsp;&nbsp;2a - Si première connexion, changer son mot de passe en cliquant sur la nom du projet en haut à droite de la fenêtre.
+
+&nbsp;&nbsp;2b - Entrer l'ancien mot de passe puis deux fois le nouveau.
   
-  2b - Entrer l'ancien mot de passe puis deux fois le nouveau.
-  
-  2c - Validez par "change my password" puis se reconnecter.
+&nbsp;&nbsp;2c - Validez par "change my password" puis se reconnecter.
   
 3 - Cliquer déposer les fichiers à mettre en ligne. Faire attention à bien avoir un fichier **index.html**
 
