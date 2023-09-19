@@ -18,7 +18,8 @@ Le compte sera créé et le mot de passe vous sera envoyé.
 2 - Entrer les login et mot de passe
 
 &nbsp;&nbsp;2a - Si première connexion, changer son mot de passe en cliquant sur la nom du projet en haut à droite de la fenêtre.
-![sftpGO_profil](https://github.com/JrCanDev/jrcandev.github.io/assets/6851276/17c31b1c-2009-4d17-aa66-b901da15c25b){: width="300px" }
+![sftpGO_profil](https://github.com/JrCanDev/jrcandev.github.io/assets/6851276/17c31b1c-2009-4d17-aa66-b901da15c25b){:width="300px" }
+
 ![sftpGO_changement_mot_de_passe](https://github.com/JrCanDev/jrcandev.github.io/assets/6851276/f820c93b-5b01-4b21-9f53-f4fce78b1a11)
 
 
